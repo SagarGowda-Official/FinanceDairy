@@ -7,13 +7,13 @@ FINANCE DIARY MANAGER
 
 3.You can add, edit, delete, update your financial entries in your diary.
 
-4.Users need to signup before using the application
+4.Users need to signup before using the application. every user should use unique email. same email is not allowed to signup twice.
 
 5.After signup user can login with their personal credentials like email and password which would redirect them to application dashboard
 
 6.You can also update your personal info like name and email in the application
 
-7.You can change/reset your password if u feel like doing it.
+7.You can change/reset your password if u feel like doing it. It does not allow the reset if you enter your current password. it also does not allow if the password and confirm password does not matches.
 
 8. Any questions about code feel free to ask anything about the code and its working process, i'd glady expain it.
 
