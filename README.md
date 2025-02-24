@@ -5,7 +5,7 @@ FINANCE DIARY MANAGER
 
 2.This application is used to add your day-to-day financial transactions and keep a track of your income and expenditure easily.
 
-3.You can add, edit, delete, update your financial entries in your dairy.
+3.You can add, edit, delete, update your financial entries in your diary.
 
 4.Users need to signup before using the application
 
