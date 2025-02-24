@@ -15,3 +15,6 @@ FINANCE DIARY MANAGER
 
 7.You can change/reset your password if u feel like doing it.
 
+8. Any questions about code feel free to ask anything about the code and its working process, i'd glady expain it.
+
+9. PLEASE DO LOOK INTO IT.THANK YOU SO MUCH
